@@ -18,7 +18,7 @@ car_body - VARCHAR(30) - NULL
 
 year - YEAR - NOTNULL - NULL
 
-price - DECIMAL(14,2) - NULL
+price - DECIMAL(11,2) - NULL
 
 kilometers - INT - NULL
 
